@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ENVIOPOST2</string>
+    <string name="CLAVE">CLAVE</string>
+    <string name="FECHA">FECHA</string>
+        <string name="LECTOR">LECTOR</string>
+    <string name="FECHA_LECTURA">FECHA DE LECTURA</string>
+    <string name="BTN_ENVIAR">ENVIAR</string>
+</resources>
